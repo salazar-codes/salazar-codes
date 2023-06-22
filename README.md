@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy Salazar</h1>
-<h3 align="center">A passionate frontend developer from LATAM</h3>
+<h3 align="center">A passionate frontend developer from Perú</h3>
 
 - 🔭 I’m currently working on [Sayakatech](https://sayakatech.com/)
 
