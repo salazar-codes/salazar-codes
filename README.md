@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Angular, RxJS, Spring**
 
-- 📫 How to reach me **jimmyr.salazar@gmai.com**
+- 📫 How to reach me **jimmyr.salazar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
