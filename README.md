@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy Salazar</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate peruvian Software Engineer</h3>
 
 - 🌱 I’m currently learning **Jenkins, Azure, Vue, React**
 
