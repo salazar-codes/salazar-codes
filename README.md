@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jimmy Salazar</h1>
-<h3 align="center">A passionate peruvian Software Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **Jenkins, Azure, Vue, React**
+- 🌱 I’m currently learning **Jenkins, Azure, Kafka**
 
-- 📝 I regularly post information on [The Codebreaker](https://www.instagram.com/codebreaker.dev/)
+## 📝 I regularly post information on [The Codebreaker](https://www.instagram.com/codebreaker.dev/)
 
 - 💬 Ask me about **Angular, RxJS, Java, Spring**
 
