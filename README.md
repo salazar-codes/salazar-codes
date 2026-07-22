@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning about **IA, DevOps and Software architecture**
-- 🌎 I regularly post information and share my knowledge in social medias as [techingnotes](https://www.tiktok.com/@techingnotes)
+- 🌍 I share programming content as [techingnotes](https://www.tiktok.com/@techingnotes) — Java, SQL & backend explained with notes, analogies and diagrams 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
